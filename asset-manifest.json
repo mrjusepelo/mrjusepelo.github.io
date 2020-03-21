@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mrjusepelo.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mrjusepelo.github.io/static/js/main.bb310292.chunk.js",
-    "main.js.map": "/mrjusepelo.github.io/static/js/main.bb310292.chunk.js.map",
-    "runtime-main.js": "/mrjusepelo.github.io/static/js/runtime-main.81c84a7b.js",
-    "runtime-main.js.map": "/mrjusepelo.github.io/static/js/runtime-main.81c84a7b.js.map",
-    "static/js/2.b971f21b.chunk.js": "/mrjusepelo.github.io/static/js/2.b971f21b.chunk.js",
-    "static/js/2.b971f21b.chunk.js.map": "/mrjusepelo.github.io/static/js/2.b971f21b.chunk.js.map",
-    "index.html": "/mrjusepelo.github.io/index.html",
-    "precache-manifest.d3843974514c2e40531cd068ce47d42e.js": "/mrjusepelo.github.io/precache-manifest.d3843974514c2e40531cd068ce47d42e.js",
-    "service-worker.js": "/mrjusepelo.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/mrjusepelo.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b971f21b.chunk.js.LICENSE.txt": "/mrjusepelo.github.io/static/js/2.b971f21b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mrjusepelo.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/site/static/css/main.5f361e03.chunk.css",
+    "main.js": "/site/static/js/main.1d1d63a2.chunk.js",
+    "main.js.map": "/site/static/js/main.1d1d63a2.chunk.js.map",
+    "runtime-main.js": "/site/static/js/runtime-main.fc9577f4.js",
+    "runtime-main.js.map": "/site/static/js/runtime-main.fc9577f4.js.map",
+    "static/js/2.b971f21b.chunk.js": "/site/static/js/2.b971f21b.chunk.js",
+    "static/js/2.b971f21b.chunk.js.map": "/site/static/js/2.b971f21b.chunk.js.map",
+    "index.html": "/site/index.html",
+    "precache-manifest.260d79732622b4ad7f5213230d66a6c3.js": "/site/precache-manifest.260d79732622b4ad7f5213230d66a6c3.js",
+    "service-worker.js": "/site/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/site/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b971f21b.chunk.js.LICENSE.txt": "/site/static/js/2.b971f21b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/site/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.81c84a7b.js",
+    "static/js/runtime-main.fc9577f4.js",
     "static/js/2.b971f21b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bb310292.chunk.js"
+    "static/js/main.1d1d63a2.chunk.js"
   ]
 }
