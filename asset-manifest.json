@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mrjusepelo/mrjusepelo.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mrjusepelo/mrjusepelo.github.io/static/js/main.6ea18bad.chunk.js",
-    "main.js.map": "/mrjusepelo/mrjusepelo.github.io/static/js/main.6ea18bad.chunk.js.map",
-    "runtime-main.js": "/mrjusepelo/mrjusepelo.github.io/static/js/runtime-main.e110086a.js",
-    "runtime-main.js.map": "/mrjusepelo/mrjusepelo.github.io/static/js/runtime-main.e110086a.js.map",
-    "static/js/2.b971f21b.chunk.js": "/mrjusepelo/mrjusepelo.github.io/static/js/2.b971f21b.chunk.js",
-    "static/js/2.b971f21b.chunk.js.map": "/mrjusepelo/mrjusepelo.github.io/static/js/2.b971f21b.chunk.js.map",
-    "index.html": "/mrjusepelo/mrjusepelo.github.io/index.html",
-    "precache-manifest.c6835b6cc796c7e4ae83b005257286b9.js": "/mrjusepelo/mrjusepelo.github.io/precache-manifest.c6835b6cc796c7e4ae83b005257286b9.js",
-    "service-worker.js": "/mrjusepelo/mrjusepelo.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/mrjusepelo/mrjusepelo.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b971f21b.chunk.js.LICENSE.txt": "/mrjusepelo/mrjusepelo.github.io/static/js/2.b971f21b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mrjusepelo/mrjusepelo.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/mrjusepelo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mrjusepelo/static/js/main.8060ccce.chunk.js",
+    "main.js.map": "/mrjusepelo/static/js/main.8060ccce.chunk.js.map",
+    "runtime-main.js": "/mrjusepelo/static/js/runtime-main.b5f3b95b.js",
+    "runtime-main.js.map": "/mrjusepelo/static/js/runtime-main.b5f3b95b.js.map",
+    "static/js/2.b971f21b.chunk.js": "/mrjusepelo/static/js/2.b971f21b.chunk.js",
+    "static/js/2.b971f21b.chunk.js.map": "/mrjusepelo/static/js/2.b971f21b.chunk.js.map",
+    "index.html": "/mrjusepelo/index.html",
+    "precache-manifest.352928c7e55a8eabaaa14c32dde56731.js": "/mrjusepelo/precache-manifest.352928c7e55a8eabaaa14c32dde56731.js",
+    "service-worker.js": "/mrjusepelo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mrjusepelo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b971f21b.chunk.js.LICENSE.txt": "/mrjusepelo/static/js/2.b971f21b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mrjusepelo/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e110086a.js",
+    "static/js/runtime-main.b5f3b95b.js",
     "static/js/2.b971f21b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6ea18bad.chunk.js"
+    "static/js/main.8060ccce.chunk.js"
   ]
 }
