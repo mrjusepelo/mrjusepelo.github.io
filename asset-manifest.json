@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mrjusepelo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mrjusepelo/static/js/main.8060ccce.chunk.js",
-    "main.js.map": "/mrjusepelo/static/js/main.8060ccce.chunk.js.map",
-    "runtime-main.js": "/mrjusepelo/static/js/runtime-main.b5f3b95b.js",
-    "runtime-main.js.map": "/mrjusepelo/static/js/runtime-main.b5f3b95b.js.map",
-    "static/js/2.b971f21b.chunk.js": "/mrjusepelo/static/js/2.b971f21b.chunk.js",
-    "static/js/2.b971f21b.chunk.js.map": "/mrjusepelo/static/js/2.b971f21b.chunk.js.map",
-    "index.html": "/mrjusepelo/index.html",
-    "precache-manifest.352928c7e55a8eabaaa14c32dde56731.js": "/mrjusepelo/precache-manifest.352928c7e55a8eabaaa14c32dde56731.js",
-    "service-worker.js": "/mrjusepelo/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/mrjusepelo/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b971f21b.chunk.js.LICENSE.txt": "/mrjusepelo/static/js/2.b971f21b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mrjusepelo/static/media/logo.5d5d9eef.svg"
+    "main.css": "/mrjusepelo.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mrjusepelo.github.io/static/js/main.bb310292.chunk.js",
+    "main.js.map": "/mrjusepelo.github.io/static/js/main.bb310292.chunk.js.map",
+    "runtime-main.js": "/mrjusepelo.github.io/static/js/runtime-main.81c84a7b.js",
+    "runtime-main.js.map": "/mrjusepelo.github.io/static/js/runtime-main.81c84a7b.js.map",
+    "static/js/2.b971f21b.chunk.js": "/mrjusepelo.github.io/static/js/2.b971f21b.chunk.js",
+    "static/js/2.b971f21b.chunk.js.map": "/mrjusepelo.github.io/static/js/2.b971f21b.chunk.js.map",
+    "index.html": "/mrjusepelo.github.io/index.html",
+    "precache-manifest.d3843974514c2e40531cd068ce47d42e.js": "/mrjusepelo.github.io/precache-manifest.d3843974514c2e40531cd068ce47d42e.js",
+    "service-worker.js": "/mrjusepelo.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mrjusepelo.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b971f21b.chunk.js.LICENSE.txt": "/mrjusepelo.github.io/static/js/2.b971f21b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mrjusepelo.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5f3b95b.js",
+    "static/js/runtime-main.81c84a7b.js",
     "static/js/2.b971f21b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8060ccce.chunk.js"
+    "static/js/main.bb310292.chunk.js"
   ]
 }
